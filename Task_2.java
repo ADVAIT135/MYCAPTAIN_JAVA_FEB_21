@@ -17,7 +17,7 @@ public class Task_2 {
 		int years=weeks/52;  //Converting Weeks to Years
 		
 		if (weeks%52==0) {
-			System.out.println(min+" minutes is "+" approximately "+years+" year/years");
+			System.out.println(min+" minutes is approximately "+years+" year/years");
 		}
 		
 		if(weeks%52!=0) {
