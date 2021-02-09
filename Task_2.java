@@ -10,7 +10,7 @@ public class Task_2 {
 		// TODO Auto-generated method stub
 		System.out.println("Enter the number of minutes:-");
 		Scanner sc = new Scanner(System.in);
-		int min = sc.nextInt();  //Taking number of inputs as a user input
+		int min = sc.nextInt();  //Taking number of minutes as a user input
 		int hours=min/60; //Converting minutes to hours
 		int days=hours/24; //Converting Hours to days
 		int weeks=days/7;  //Converting Days to Weeks
