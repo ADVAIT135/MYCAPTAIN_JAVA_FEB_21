@@ -32,7 +32,6 @@ public class Task_2 {
 	    }
 		sc.close();
 		
-
 	}
 
 }
